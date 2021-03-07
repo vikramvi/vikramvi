@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Namaste :pray: I'm Vikram ( Vicky ) from India</h1>
-<h3 align="center">Frontend Software Engineer</h3>
+<h2 align="center">Frontend Software Engineer</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramvi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramvi" /> </p>
+
 
 **Connect with me:**
 <p align="left">
@@ -26,6 +27,9 @@ Here are some ideas to get you started:
 </p>
 
 **Languages and Tools:**
+
+<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/308490/110237367-b6c74500-7f61-11eb-82bc-674be5cdf381.png" />
+
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
