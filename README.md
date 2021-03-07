@@ -82,8 +82,4 @@ Here are some ideas to get you started:
 </p>
 <hr/>
 
-
-**📈 My GitHub Stats:**
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikramvi&show_icons=true&locale=en" alt="vikramvi" /></p>
