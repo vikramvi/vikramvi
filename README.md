@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 <h1 align="center">Namaste :pray: I'm Vikram ( Vicky ) from India</h1>
 <h2 align="center">Frontend Software Engineer</h2>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=vikramvi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramvi" /> 
+</p>
 
 **4 Startup Experience**
     
@@ -47,19 +50,18 @@ Here are some ideas to get you started:
     <td>India</td>
   </tr>
 </table>
-   
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikramvi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramvi" /> </p>
+<hr/>   
 
 
 **Connect with me:**
 <p align="left">
-<a href="https://linkedin.com/in/vikramvingleshwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikramvingleshwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vikramvingleshwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikramvingleshwar" height="40" width="40" /></a>
 </p>
+<hr/>
 
 **Languages and Tools:**
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/308490/110237367-b6c74500-7f61-11eb-82bc-674be5cdf381.png" />
+<img width="45%" align="right" alt="Github" src="https://user-images.githubusercontent.com/308490/110237367-b6c74500-7f61-11eb-82bc-674be5cdf381.png" />
 
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>&nbsp;&nbsp;
@@ -78,7 +80,7 @@ Here are some ideas to get you started:
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>&nbsp;&nbsp; 
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/></a>&nbsp;&nbsp;
 </p>
-
+<hr/>
 
 
 **📈 My GitHub Stats:**
