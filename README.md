@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Namaste :pray: I'm Vikram ( Vicky ) from India</h1>
-<h2 align="center">React.js, React Native Developer &emsp; <a href="https://linkedin.com/in/vikramvingleshwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikramvingleshwar" height="30" width="30"/></a></h2>
+<h2 align="center">React Native Indie Developer&emsp; <a href="https://linkedin.com/in/vikramvingleshwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vikramvingleshwar" height="30" width="30"/></a></h2>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=vikramvi&label=Profile%20views&color=0e75b6&style=flat" alt="vikramvi" /> 
 </p>
